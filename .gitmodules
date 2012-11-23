@@ -1,0 +1,15 @@
+[submodule "settings_misc"]
+	path = settings_misc
+	url = https://github.com/jsbackus/settings_misc.git
+[submodule "settings_notion"]
+	path = settings_notion
+	url = https://github.com/jsbackus/settings_notion.git
+[submodule "settings_idlescreen"]
+	path = settings_idlescreen
+	url = https://github.com/jsbackus/settings_idlescreen.git
+[submodule "settings_emacs"]
+	path = settings_emacs
+	url = https://github.com/jsbackus/settings_emacs.git
+[submodule "settings_bbLean"]
+	path = settings_bbLean
+	url = https://github.com/jsbackus/settings_bbLean.git
